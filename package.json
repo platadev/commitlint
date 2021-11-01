@@ -1,0 +1,14 @@
+{
+	"name": "@plata/commitlint",
+	"version": "0.0.1",
+	"main": "index.js",
+	"license": "MIT",
+	"dependencies": {
+		"@commitlint/cli": "^14.1.0",
+		"@commitlint/config-conventional": "^14.1.0"
+	},
+	"devDependencies": {
+		"@plata/prettier-config": "^0.0.1",
+		"husky": "^7.0.4"
+	}
+}
