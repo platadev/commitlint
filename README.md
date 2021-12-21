@@ -5,8 +5,6 @@
 ## Installation
 
 ```bash
-  npm install -d @plata/commitlint
-  # or
   yarn add --dev @plata/commitlint
 ```
 
